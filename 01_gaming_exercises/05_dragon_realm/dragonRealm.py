@@ -1,5 +1,6 @@
 # Dragon Realm, Elijah Reed, v0.5
 # Awesome job so far!  If you have any finishing touches please add them. 
+# Excellent job.  You are a strong programmer.  If / when the Python certification is rescheduled, PLEASE make sure you show up. 
 
 import random
 import time
